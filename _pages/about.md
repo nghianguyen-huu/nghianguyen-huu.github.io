@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Electrical and Computer Engineering Dalhousie University</p>
+    <p>[Electrical and Computer Engineering Dalhousie University](https://ece.dal.ca)</p>
     <p>1459 Oxford Street</p>
     <p>Halifax, NS B3H 4R2 Canada</p>
 

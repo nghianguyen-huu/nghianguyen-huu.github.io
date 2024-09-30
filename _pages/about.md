@@ -7,7 +7,7 @@ subtitle: Adjunct Faculty Dalhousie University Canada
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Electrical and Computer Engineering Dalhousie University</p>
     <p>1459 Oxford Street</p>

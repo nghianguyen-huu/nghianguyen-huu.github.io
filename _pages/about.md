@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[Electrical and Computer Engineering Dalhousie University](https://ece.dal.ca)</p>
+    <p>Electrical and Computer Engineering Dalhousie University</p>
     <p>1459 Oxford Street</p>
     <p>Halifax, NS B3H 4R2 Canada</p>
 
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Adjunct Faculty member in the Department of Electrical and Computer Engineering at Dalhousie University, specializing in nano/micro-scale energy transport (photonics). My research focuses on light-matter interactions for mechanical-opto-electronic devices, such as energy absorbers, thermophotovoltaic emitters, optical filters, and biosensors.
+I am an Adjunct Faculty member in the Department of Electrical and Computer Engineering at [Dalhousie University](https://ece.dal.ca), specializing in nano/micro-scale energy transport (photonics). My research focuses on light-matter interactions for mechanical-opto-electronic devices, such as energy absorbers, thermophotovoltaic emitters, optical filters, and biosensors.
 
 With dual Master's degrees in Mechanical Engineering, I bring extensive industry experience, including work on thin-film structures for laser strike protection, enhancements to LED roadway lighting, and acoustic systems that improve comfort in care homes. My academic journey began at INSA de Lyon, France, and the University of Barcelona, Spain, where I researched MIMO-based dynamic systems for my thesis.
 

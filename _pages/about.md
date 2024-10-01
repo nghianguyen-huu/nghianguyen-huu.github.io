@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>My name is Nghia, pronounced 'ŋîə' or 'Near'.</p>
     <p>Electrical and Computer Engineering Dalhousie University</p>
     <p>1459 Oxford Street</p>
     <p>Halifax, NS B3H 4R2 Canada</p>

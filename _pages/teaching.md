@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught in the past and currently teach.
 nav: true
 nav_order: 6
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Dalhousie University
+ECED 3102 Electromechanics
+This course covers the principles of electromechanical energy conversion and electric motors. A review of magnetic field behavior leads to magnetic circuit calculations and permanent magnet circuit behavior. Energy balance principles are used to develop force and torque relationships for many electromechanical applications including relays, meter movements and motor operation. Basic principles of motor operation such as rotating magnetic fields, efficiency and machine ratings are given as a prelude to an in depth presentation of AC and DC motor behavior. Emphasis is placed on motor control and application.

@@ -10,18 +10,17 @@ giscus_comments: true
 #   sidebar: true
 ---
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
+<h3 style="color: #4b9cd3;" id="Dalhousie University"><a href="https://www.dal.ca/">Dalhousie University</a></h3>
 <!-- COMP 541 (Digital Logic and Computer Design) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Digital Logic and Computer Design</h5>
-        <h6 class="card-subtitle font-italic">Volunteer (F23, W22)</h6>
+        <h5 id="comp311" class="card-title">Electromechanics</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          541
+          ECED 3102
         </span>
       </div>
     </div>
@@ -29,7 +28,7 @@ giscus_comments: true
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator (speeds up build time from several minutes to seconds) by porting, along with a classmate, the original version (Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
+            This course covers the principles of electromechanical energy conversion and electric motors. A review of magnetic field behavior leads to magnetic circuit calculations and permanent magnet circuit behavior. Energy balance principles are used to develop force and torque relationships for many electromechanical applications including relays, meter movements and motor operation. Basic principles of motor operation such as rotating magnetic fields, efficiency and machine ratings are given as a prelude to an in depth presentation of AC and DC motor behavior. Emphasis is placed on motor control and application.
           </div>
           <div class="col-sm-3">
             <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="https://github.com/madiali/mips-emulator">GitHub</a>)

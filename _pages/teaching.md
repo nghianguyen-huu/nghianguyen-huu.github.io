@@ -5,18 +5,18 @@ title: teaching
 description: Courses I have taught in the past and currently teach.
 nav: true
 nav_order: 6
-giscus_comments: true
+giscus_comments: false
 # toc:
 #   sidebar: true
 ---
-
 <h3 style="color: #4b9cd3;" id="Dalhousie University"><a href="https://www.dal.ca/">Dalhousie University</a></h3>
-<!-- COMP 541 (Digital Logic and Computer Design) -->
+<!-- ECED 3102 (Electromechanics) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Electromechanics</h5>
+        <h5 id="ECED3102" class="card-title">Electromechanics</h5>
+        <h6 class="card-subtitle font-italic">Fall 2024</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -31,7 +31,7 @@ giscus_comments: true
             This course covers the principles of electromechanical energy conversion and electric motors. A review of magnetic field behavior leads to magnetic circuit calculations and permanent magnet circuit behavior. Energy balance principles are used to develop force and torque relationships for many electromechanical applications including relays, meter movements and motor operation. Basic principles of motor operation such as rotating magnetic fields, efficiency and machine ratings are given as a prelude to an in depth presentation of AC and DC motor behavior. Emphasis is placed on motor control and application.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="https://github.com/madiali/mips-emulator">GitHub</a>)
+            <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=37057&entitytype=CID&entitycode=ECED+3102">Academic Calendars</a>)
           </div>
         </div>
       </li>

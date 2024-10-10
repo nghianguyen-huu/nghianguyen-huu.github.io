@@ -39,6 +39,34 @@ giscus_comments: false
   </div>
 </div>
 
+<!-- ECED 4421   Technology and Applications of Fiber Optics -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="ECED3102" class="card-title">Technology and Applications of Fiber Optics</h5>
+        <h6 class="card-subtitle font-italic">Winter 2023</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          ECED 4421
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            This course deals with the basic principles and applications of optical fiber communications. Major topics include: ray theory and electromagnetic modes in optical fiber waveguides; step-index and graded-index multimode and single-mode fibers; transmission characteristics of optical fibers such as attenuation (absorption, scattering, bending), dispersion (multipath, waveguide, material, profile), and polarization (random, preserved); optical fiber communication systems (transmitter, receiver, digital and analog system design); advanced systems; non-communications applications.
+          </div>
+          <div class="col-sm-3">
+            <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&topicgroupid=39480&entitytype=CID&entitycode=ECED+4421">Academic Calendars</a>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
 ---
 
 

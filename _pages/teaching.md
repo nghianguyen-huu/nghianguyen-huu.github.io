@@ -5,7 +5,7 @@ title: teaching
 description: Courses I have taught in the past and currently teach.
 nav: true
 nav_order: 6
-giscus_comments: false
+giscus_comments: true
 # toc:
 #   sidebar: true
 ---
@@ -68,7 +68,6 @@ giscus_comments: false
   </div>
 </div>
 ---
-
 
 [Dalhousie University](https://www.dal.ca/)
 ECED 3102 Electromechanics

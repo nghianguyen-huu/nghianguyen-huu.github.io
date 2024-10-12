@@ -28,5 +28,3 @@ My expertise spans nanophotonic structures, nanofabrication, physical studies, a
 I serve as an Associate Editor for [Applied Nanoscience](https://link.springer.com/journal/13204/editorial-board), Nature Springer and was previously an associate editor for the SPIE [Journal of Nanophotonics](https://www.spiedigitallibrary.org/journals/journal-of-nanophotonics#_=). I’ve also reviewed articles for several prestigious journals. As a senior member of SPIE, IEEE, and Optica, I contributed to the SPIE Scholarship Committee, OSA Student Chapter Excellence Prize Committee, and currently serve on the Board of Examiners and CPD Committee for Engineers Nova Scotia.
 
 I hold a Ph.D. in Materials Science (Photonics) and have held academic positions at Dalhousie University and Can Tho University, supported by industry experience at Metamaterial Technologies Inc., LED Roadway Lighting, and WEIR Canada. I’ve received multiple awards for best poster and oral presentations, along with travel grants from SPIE and the National Science Council of Taiwan.
-
-test test

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Adjunct Faculty Dalhousie University Canada
+subtitle: Adjunct Faculty - Dalhousie University Canada
 
 profile:
   align: right

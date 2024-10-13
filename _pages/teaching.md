@@ -5,7 +5,7 @@ title: teaching
 description: Courses THAT THAT THAT I have taught in the past and currently teach.
 nav: true
 nav_order: 6
-giscus_comments: false
+giscus_comments: true
 # toc:
 #   sidebar: true
 ---
